@@ -1,1 +1,2 @@
 # MorseCodeTranslator
+The Morse Code Translator is a Java-based application that converts text to Morse code and vice versa. It features a user-friendly interface with options to save translations to files or restore them later. The program uses predefined character mappings for accurate translations and handles spaces for word separation. Users can easily navigate the menu to perform translations or manage saved data. It's a practical tool for learning and working with Morse code efficiently.
